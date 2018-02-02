@@ -16,7 +16,7 @@ npm i -g pm2
 
 
 # Change Directory
-cd ~/portfolio
+cd ~/abhilash-portfolio
 
 sudo yum install nodejs npm --enablerepo=epel
 npm install npm -g
