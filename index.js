@@ -10,4 +10,5 @@ app.get('/*', function(req, res) {
 
 app.listen(8080, '0.0.0.0', () => {
     console.log('server started on port 8080');
+    console.log('sit back and relax');
 })
