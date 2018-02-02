@@ -1,0 +1,8 @@
+sudo: false
+language: node_js
+cache:
+  yarn: true
+node_js:
+  - stable
+notifications:
+    slack: dream11:PVH9uTrKQEXToS7PshKJZ3uI
