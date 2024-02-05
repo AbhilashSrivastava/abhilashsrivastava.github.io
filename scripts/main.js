@@ -100,8 +100,8 @@ async function getInputValue(){
   }
   else if(value === "about me"){
     trueValue(value);
-    createText("Hi, my name is Abhilash;)")
-    createText("I am a FullStack developer with 10+ years of experience in app & web development. Currently I work in <a href=https://coinswitch.co  target='_blank'><span class='blue'>CoinSwitch</span></a> as an Associate Director - Technology. I work in technologies like <span class='blue'>Node, React, React Native, GraphQL, GoLang </span>. Apart from this, I am a musician - <span class='blue'> vocalist, guitarist, music producer </span> and recently started trying my hands on <span class='blue'>DJ jockeying</span>.")
+    createText("Hi, my name is Abhilash :)")
+    createText("I am a FullStack developer with 10+ years of experience in app & web development. Currently I work in <a href=https://coinswitch.co  target='_blank'><span class='blue'>CoinSwitch</span></a> as an Associate Director - Technology. I work in technologies like <span class='blue'>Node, React, React Native, GraphQL, GoLang</span>. Apart from this, I am a musician - <span class='blue'> vocalist, guitarist, music producer </span> and recently started trying my hands on <span class='blue'>DJ jockeying</span>.")
   }
   else if(value === "social -a"){
     trueValue(value);
